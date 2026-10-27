@@ -8,7 +8,7 @@ A universal, and production-ready audio/video transcription tool optimized for t
 
 Run the notebook directly in your browser with zero local setup:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<AndreaZanin02>/<audio-trascriber>/blob/main/audio_trascriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaZanin02/audio-trascriber/blob/main/audio_trascriber.ipynb)
 
 
 ---
