@@ -20,7 +20,7 @@ Run the notebook directly in your browser with zero local setup:
 * **Dynamic Gain Normalization:** Pre-processes the audio signal via FFmpeg (`highpass` + `dynaudnorm`) to balance voices recorded at different distances from the microphone.
 * **Universal Media Support:** Natively supports `.mp3`, `.wav`, `.m4a`, `.aac`, `.flac`, `.ogg`, `.opus`, `.wma`, as well as video containers (`.mp4`, `.mkv`, `.mov`, `.webm`, `.avi`).
 * **Direct Local Download:** Automatically triggers a download of the resulting `.txt` transcription to your local machine.
-* **Clean UI via Colab Forms:** Tweak language settings, model checkpoints (`large-v3-turbo`, `large-v3`, `medium`), timestamps, and domain-specific keywords via straightforward form inputs without modifying code.
+* **Clean UI via Colab Forms:** Tweak language settings, model checkpoints (`large-v3-turbo`, `large-v3`), timestamps, and domain-specific keywords via straightforward form inputs without modifying code.
 
 ---
 
